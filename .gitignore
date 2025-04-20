@@ -1,0 +1,11 @@
+# Node
+node_modules/
+.env
+package-lock.json
+
+# Logs
+*.log
+
+# OS/System files
+.DS_Store
+Thumbs.db
